@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "uSDX_LPF_BAND_Module")(type "Legacy")(uri "/home/dhiru/repos/HF-PA-v3/HF-PA-v3/libraries/uSDX LPF BAND Module.lib")(options "")(descr ""))
+  (lib (name "74ACT00_modded")(type "KiCad")(uri "/home/dhiru/Desktop/repos/HF-PA-v7/HF-PA/libraries/74ACT00_modded.kicad_sym")(options "")(descr ""))
+  (lib (name "74ACT04_modded")(type "KiCad")(uri "/home/dhiru/Desktop/repos/HF-PA-v7/HF-PA/libraries/74ACT04_modded.kicad_sym")(options "")(descr ""))
+)
